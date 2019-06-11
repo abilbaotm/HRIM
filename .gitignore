@@ -1,0 +1,8 @@
+build
+install
+log
+generated
+*.pyc
+dist
+*.egg-info/
+
